@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GSkyAZv+BAytIp+l7CuBzd+GUCWkF4tRUH8dKXN2SuKs19mtqzFCOkJ3GEvGvNXdv+TM/MKHgNlKCJqz9rWkiQ==",
+  "dgSpecHash": "rfrtoKD3jyUz6ikIen7cWPC/ODRktxCjZB1yRsOonD7053qTIxRnPBSN1JPTnAeBqyYQRu1/zkqhpXisTYQhzw==",
   "success": true,
-  "projectFilePath": "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\StoreApp\\StoreApp.csproj",
+  "projectFilePath": "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\StoreApp\\StoreApp.csproj",
   "expectedPackageFiles": [
     "D:\\Program Files\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "D:\\Program Files\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.9\\microsoft.data.sqlite.core.7.0.9.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\StoreApp\\StoreApp.csproj": {}
+    "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\StoreApp\\StoreApp.csproj": {}
   },
   "projects": {
-    "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\StoreApp\\StoreApp.csproj": {
+    "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\StoreApp\\StoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\StoreApp\\StoreApp.csproj",
+        "projectUniqueName": "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\StoreApp\\StoreApp.csproj",
         "projectName": "StoreApp",
-        "projectPath": "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\StoreApp\\StoreApp.csproj",
+        "projectPath": "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\StoreApp\\StoreApp.csproj",
         "packagesPath": "D:\\Program Files\\.nuget\\packages",
-        "outputPath": "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\StoreApp\\obj\\",
+        "outputPath": "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\StoreApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
