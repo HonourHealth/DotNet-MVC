@@ -1,0 +1,12 @@
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Entities\bin\Debug\net7.0\Entities.deps.json
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Entities\bin\Debug\net7.0\Entities.dll
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Entities\bin\Debug\net7.0\Entities.pdb
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Entities\obj\Debug\net7.0\Entities.dll
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Entities\obj\Debug\net7.0\refint\Entities.dll
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Entities\obj\Debug\net7.0\Entities.pdb
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Entities\obj\Debug\net7.0\ref\Entities.dll

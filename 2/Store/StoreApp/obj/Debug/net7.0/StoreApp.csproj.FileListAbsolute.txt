@@ -65,3 +65,7 @@ D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\Mono.TextTe
 D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\System.CodeDom.dll
 D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\StoreApp.staticwebassets.runtime.json
 D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\libman.json
+D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\Entities.dll
+D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\Entities.pdb
+D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\Repositories.dll
+D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\Repositories.pdb

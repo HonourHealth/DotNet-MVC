@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\html\\Error.html"
     },
     {
+      "Id": "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\StoreApp\\wwwroot\\images\\default.jpg",
+      "PackagePath": "staticwebassets\\images\\default.jpg"
+    },
+    {
       "Id": "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\StoreApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

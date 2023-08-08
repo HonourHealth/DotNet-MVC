@@ -1,0 +1,15 @@
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\bin\Debug\net7.0\Repositories.deps.json
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\bin\Debug\net7.0\Repositories.dll
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\bin\Debug\net7.0\Repositories.pdb
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\bin\Debug\net7.0\Entities.dll
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\bin\Debug\net7.0\Entities.pdb
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\obj\Debug\net7.0\Repositories.csproj.AssemblyReference.cache
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\obj\Debug\net7.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfo.cs
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\obj\Debug\net7.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\obj\Debug\net7.0\Repositories.csproj.CopyComplete
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\obj\Debug\net7.0\Repositories.dll
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\obj\Debug\net7.0\refint\Repositories.dll
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\obj\Debug\net7.0\Repositories.pdb
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\obj\Debug\net7.0\ref\Repositories.dll
