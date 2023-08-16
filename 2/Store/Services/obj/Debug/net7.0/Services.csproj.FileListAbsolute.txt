@@ -1,0 +1,17 @@
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\bin\Debug\net7.0\Services.deps.json
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\bin\Debug\net7.0\Services.dll
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\bin\Debug\net7.0\Services.pdb
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\bin\Debug\net7.0\Entities.dll
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\bin\Debug\net7.0\Repositories.dll
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\bin\Debug\net7.0\Entities.pdb
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\bin\Debug\net7.0\Repositories.pdb
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\obj\Debug\net7.0\Services.dll
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\obj\Debug\net7.0\refint\Services.dll
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\obj\Debug\net7.0\Services.pdb
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\obj\Debug\net7.0\ref\Services.dll

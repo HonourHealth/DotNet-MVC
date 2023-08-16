@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sm8iFEowLsMB4LnH56g35m1kALq5POXPk9m62RoiYogy2vDsOwuQ9IxP06+lMjxa5bRbOx4pDzqorLPLZD1DPA==",
+  "dgSpecHash": "v/Im3zKw0+x4iWsaQFRijMI64REd4Fie0hpRAOdgQpmVKla/8wCUVNV+ORuWZJwRyV9Ey60NT/c0/e93gyApyw==",
   "success": true,
-  "projectFilePath": "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Repositories\\Repositories.csproj",
+  "projectFilePath": "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
     "D:\\Program Files\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.9\\microsoft.data.sqlite.core.7.0.9.nupkg.sha512",
     "D:\\Program Files\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",

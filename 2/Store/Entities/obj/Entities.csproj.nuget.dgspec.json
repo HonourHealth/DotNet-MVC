@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Entities\\Entities.csproj": {}
+    "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Entities\\Entities.csproj": {
+    "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Entities\\Entities.csproj",
+        "projectUniqueName": "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Entities\\Entities.csproj",
+        "projectPath": "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Entities\\Entities.csproj",
         "packagesPath": "D:\\Program Files\\.nuget\\packages",
-        "outputPath": "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Entities\\obj\\",
+        "outputPath": "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"

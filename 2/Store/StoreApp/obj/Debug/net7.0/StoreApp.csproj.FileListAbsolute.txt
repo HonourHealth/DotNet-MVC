@@ -69,3 +69,5 @@ D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\Entities.dl
 D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\Entities.pdb
 D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\Repositories.dll
 D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\Repositories.pdb
+D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\Services.dll
+D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\Services.pdb
