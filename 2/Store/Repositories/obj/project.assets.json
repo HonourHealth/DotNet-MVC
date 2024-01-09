@@ -1162,11 +1162,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Repositories\\Repositories.csproj",
+      "projectPath": "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Repositories\\Repositories.csproj",
       "packagesPath": "D:\\Program Files\\.nuget\\packages",
-      "outputPath": "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Repositories\\obj\\",
+      "outputPath": "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1188,8 +1188,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Entities\\Entities.csproj": {
-              "projectPath": "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Entities\\Entities.csproj"
+            "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Entities\\Entities.csproj"
             }
           }
         }

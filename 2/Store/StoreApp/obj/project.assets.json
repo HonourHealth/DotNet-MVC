@@ -2041,11 +2041,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\StoreApp\\StoreApp.csproj",
+      "projectUniqueName": "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\StoreApp\\StoreApp.csproj",
       "projectName": "StoreApp",
-      "projectPath": "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\StoreApp\\StoreApp.csproj",
+      "projectPath": "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\StoreApp\\StoreApp.csproj",
       "packagesPath": "D:\\Program Files\\.nuget\\packages",
-      "outputPath": "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\StoreApp\\obj\\",
+      "outputPath": "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\StoreApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2068,14 +2068,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Entities\\Entities.csproj": {
-              "projectPath": "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Entities\\Entities.csproj"
+            "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Entities\\Entities.csproj"
             },
-            "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Repositories\\Repositories.csproj": {
-              "projectPath": "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Repositories\\Repositories.csproj"
+            "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Repositories\\Repositories.csproj"
             },
-            "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Services\\Services.csproj": {
-              "projectPath": "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Services\\Services.csproj"
+            "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Services\\Services.csproj": {
+              "projectPath": "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Services\\Services.csproj"
             }
           }
         }

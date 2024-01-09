@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xIOQF1wPOUikUemDic7DSpJjrAmCZBEzzXrIG4sc3+SWj61mK4rUrANGpJT7AWPaBmGAQAt4riAZrjJJMqVSbQ==",
+  "dgSpecHash": "+Vp476vHzZaG9VQ2If7Yhy3WRFkh6H0L0jWIwLjyKlAPMobQ/epKvdTzwvn/kVUWv69eDTvpEiv/qUF6VMtAUg==",
   "success": true,
-  "projectFilePath": "d:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Entities\\Entities.csproj",
+  "projectFilePath": "D:\\Program Files\\GitHub\\DotNet-MVC\\2\\Store\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
