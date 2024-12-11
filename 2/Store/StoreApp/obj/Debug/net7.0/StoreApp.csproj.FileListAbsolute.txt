@@ -58,7 +58,6 @@ D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\runtimes\wi
 D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
 D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
-D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\obj\Debug\net7.0\StoreApp.csproj.CopyComplete
 D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\Humanizer.dll
 D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\Mono.TextTemplating.dll
@@ -71,3 +70,5 @@ D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\Repositorie
 D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\Repositories.pdb
 D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\Services.dll
 D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\bin\Debug\net7.0\Services.pdb
+D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\obj\Debug\net7.0\StoreApp.sourcelink.json
+D:\Program Files\GitHub\DotNet-MVC\2\Store\StoreApp\obj\Debug\net7.0\StoreApp.csproj.Up2Date

@@ -9,6 +9,8 @@ namespace Entities.Models
         public String? ProductName { get; set; }
         [Required(ErrorMessage = "Price is required.")]
         public decimal Price { get; set; }
+        public int? CategoryId { get; set; } //Foreign Key
+        public Category? Category { get; set; } //Nativation Property
     }
 }
 

@@ -10,8 +10,9 @@ D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\obj\Debug\net7.0\Services.Ge
 D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
 D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
 D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
-D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
 D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\obj\Debug\net7.0\Services.dll
 D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\obj\Debug\net7.0\refint\Services.dll
 D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\obj\Debug\net7.0\Services.pdb
 D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\obj\Debug\net7.0\ref\Services.dll
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\obj\Debug\net7.0\Services.sourcelink.json
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Services\obj\Debug\net7.0\Services.csproj.Up2Date

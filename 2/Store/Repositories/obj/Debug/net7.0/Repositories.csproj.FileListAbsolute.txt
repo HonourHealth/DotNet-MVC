@@ -8,8 +8,9 @@ D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\obj\Debug\net7.0\Reposit
 D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfoInputs.cache
 D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfo.cs
 D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\obj\Debug\net7.0\Repositories.csproj.CoreCompileInputs.cache
-D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\obj\Debug\net7.0\Repositories.csproj.CopyComplete
 D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\obj\Debug\net7.0\Repositories.dll
 D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\obj\Debug\net7.0\refint\Repositories.dll
 D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\obj\Debug\net7.0\Repositories.pdb
 D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\obj\Debug\net7.0\ref\Repositories.dll
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\obj\Debug\net7.0\Repositories.sourcelink.json
+D:\Program Files\GitHub\DotNet-MVC\2\Store\Repositories\obj\Debug\net7.0\Reposito.787EC4B2.Up2Date
