@@ -1,2 +1,2 @@
 # DotNet-MVC
-DotNet-MVC Projects.
+ DotNet-MVC Projects
